@@ -1,0 +1,3 @@
+print 'type f to convert from fahrenheit to celsius'
+print 'type c to convert from celsius to fahrenheit'
+
